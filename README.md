@@ -24,14 +24,7 @@
 
 ---
 
-## 💼 Work Experience
-- **IoT Intern** (Emertxe Information Technologies)
-  - Gained hands-on experience in **C programming** and microcontrollers.
-  - Executed an IoT Home Automation project using Picsimlab for component simulation.
-- **Summer Trainee** (Jindal Steel and Power)
-  - Acquired knowledge of **SCADA systems** during the internship.
 
----
 
 ## 🛠️ Technical Skills
 - **Programming**: Verilog, SystemVerilog, SQL, C++, Shell scripting.
